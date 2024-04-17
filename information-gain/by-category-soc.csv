@@ -1,0 +1,15 @@
+Coefficient,feature,category,acronym,plot_index
+0.043748769309244206,urls,social media,SOC,"(SOC)
+urls"
+0.024481227126616822,mentions-in-the-middle,social media,SOC,"(SOC)
+mentions-in-the-middle"
+0.02130035545314035,hashtags,social media,SOC,"(SOC)
+hashtags"
+0.020452149915143103,mentions,social media,SOC,"(SOC)
+mentions"
+0.005577302375698867,reply-female,social media,SOC,"(SOC)
+reply-female"
+0.0019804272773082943,jargon,social media,SOC,"(SOC)
+jargon"
+0.0002602665829103401,emoticons,social media,SOC,"(SOC)
+emoticons"
